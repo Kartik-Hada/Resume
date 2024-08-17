@@ -2,6 +2,7 @@ import streamlit as st
 from fpdf import FPDF
 from io import BytesIO
 
+
 def main():
     st.title("Resume Maker Application")
     
